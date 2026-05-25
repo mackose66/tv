@@ -457,6 +457,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=10&b
 #EXTINF:-1 group-title="CS3 (primehome)" tvg-id="ヒストリーチャンネル.日本・世界の歴史＆エンタメ.jp" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/history_us.png", ヒストリーチャンネル (primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
 
-
+#EXTINF:-1,CNA Singapore (1280×720 25FPS)
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8  
 
 
